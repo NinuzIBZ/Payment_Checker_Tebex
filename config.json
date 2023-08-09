@@ -1,0 +1,22 @@
+{
+  "tebex_secret_key": "YOUR_API_KEY",
+  "bot_token": "YOUT_BOT_TOKEN",
+  "channel_id": "CHANNEL_ID",
+  "servers": [
+    {
+      "ip": "0.0.0.0",
+      "port": 28015,
+      "password": "PASSWORD"
+    },
+    {
+      "ip": "0.0.0.0",
+      "port": 28015,
+      "password": "PASSWORD"
+    },
+    {
+      "ip": "0.0.0.0",
+      "port": 28015,
+      "password": "PASSWORD"
+    }
+  ]
+}
